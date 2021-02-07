@@ -1,0 +1,144 @@
+.top-container
+{
+  background-color: #fff8cd;
+  position: relative;
+  padding-top: 35px;
+}
+
+h1 {
+  margin-top: 0;
+  color: #ff9642;
+  font-family: 'Hachi Maru Pop', cursive;
+  font-size: 4.68rem;
+}
+p {
+  color: #ff9642;
+  font-family: 'Open Sans', cursive;
+  line-height: 1.5;
+}
+
+hr
+  {
+    border: dotted #646464 5px;
+    border-style: none none dotted;
+    width: 5%;
+    margin: 100px auto;
+  }
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.middle-container {
+  padding: 10px;
+}
+
+.bottom-container {
+  background-color: #fff8cd;
+  padding: 50px 0 20px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+h2 {
+  font-family: 'Rouge Script', cursive;
+  color: #646464;
+  padding: 10px;
+  font-size: 2.4rem;
+}
+
+h3 {
+  font-family: 'Rouge Script', cursive;
+  color: #646464;
+}
+
+.footer-link{
+  font-family: 'Open Sans', cursive;
+  text-decoration: none;
+  color: #FF9642;
+  margin: 10px 20px;
+}
+
+.button {
+   background: #FF9642;
+   background-image: -webkit-linear-gradient(top, #FF9642, #FF9642);
+   background-image: -moz-linear-gradient(top, #FF9642, #FF9642);
+   background-image: -ms-linear-gradient(top, #FF9642, #FF9642);
+   background-image: -o-linear-gradient(top, #FF9642, #FF9642);
+   background-image: -webkit-gradient(to bottom, #FF9642, #FF9642);
+   -webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   border-radius: 15px;
+   font-family: 'Open Sans',cursive;
+   color: #fcfafa;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 10px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.button:hover {
+   border: solid #FFE05D 0;
+   background: #FFE05D;
+   background-image: -webkit-linear-gradient(top, #FFE05D, #FFE05D);
+   background-image: -moz-linear-gradient(top, #FFE05D, #FFE05D);
+   background-image: -ms-linear-gradient(top, #FFE05D, #FFE05D);
+   background-image: -o-linear-gradient(top, #FFE05D, #FFE05D);
+   background-image: -webkit-gradient(to bottom, #FFE05D, #FFE05D);
+   -webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   border-radius: 15px;
+   text-decoration: none;
+   color: #fcfafa;
+}
+
+.topper {
+  color: #ff9642;
+  font-size: 1.6rem;
+  font-weight: normal;
+  line-height: 0;
+}
+
+.java {
+  float: left;
+  width:25%;
+  margin-right: 10px;
+}
+
+.python {
+  width:20%;
+  float: right;
+  margin-left: 10px;
+}
+
+.hd3 {
+  font-size: 1.5rem
+}
+
+.intro
+{
+  width:50%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.ft {
+  color: #646464;
+  padding: 20px 0;
+}
+
+a:hover {
+  color: #FFE05D;
+}
